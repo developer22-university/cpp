@@ -1,3 +1,9 @@
+//Question:You are given an array of N positive integers, A1, A2 ,…, AN.
+//Also, given a Q updates of form:
+
+//i j: Update Ai = j. 1 ≤ i ≤ N.
+//Perform all updates and after each such update report mode of the array. Therefore, return an array of Q elements, where ith element is mode of the array after ith update has been executed.
+
 class compare
 {
     public:
